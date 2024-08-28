@@ -42,7 +42,7 @@ function App() {
         <Preloader load={load} />
         <div className="App" id={load ? "no-scroll" : "scroll"}>
           <ScrollToTopOnRouteChange />
-          <Routes>
+          <Routes  basename="/reactportfolio" >
             <Route path="/" element={<Layout />} />
             <Route path="/about" element={<About />} />
             <Route path="/projectlist" element={<ArchiveProjects />} />
