@@ -1,9 +1,9 @@
 export const ProjectsList = {
   projects: [
     {
-      name: "StratAgile HRMS",
+      name: "ThreadsClone",
       description:
-        "Stratagile HRMS is a web-based Human Resource Management System built using React. It is designed to streamline HR processes and enhance organizational efficiency by providing a set of features for leave management, employee tracking, alumni management, branch office organization, holiday calendars, and working day schedules.",
+        "ThreadsClone is a social media platform inspired by Instagram Threads, built using React. It allows users to share short text updates, engage in threaded conversations, follow others, and stay connected in a fast-paced, community-driven environment.",
       technologies: [
         "React JS",
         "redux",
@@ -13,29 +13,42 @@ export const ProjectsList = {
         "CSS",
         "Git",
         "GitHub",
-        "Figma",
+        "Node js",
+        "express js",
+        "mongoDb"
       ],
     },
     {
       name: "Zymsi - Gym Membership Platform",
       description:
-        "Contributed to the frontend development of Zymsi, a platform facilitating flexible gym memberships. Implemented user-friendly interface features and collaborated closely with backend and design teams.",
+        "Booking.com Clone is an online flight booking platform developed using MERN stack. It enables users to search for flights, compare prices, book tickets, and manage reservations, offering a seamless and user-friendly experience for travel planning.",
       technologies: [
         "React JS",
         "REST APIs",
         "axios",
-        "material UI",
         "CSS",
         "Git",
         "GitHub",
-        "Figma",
+        "Node js",
+        "express js",
+        "mongoDb"
       ],
     },
     {
       name: "Personal Portfolio",
       description:
-        "My portfolio is a website built with React.js and Tailwind CSS, utilizing React Router v6 to enable easy access to multiple pages. It was designed and created entirely by myself, showcasing my skills and projects. The website is responsive and visually appealing, providing a user-friendly experience.",
-      technologies: ["React JS", "Tailwind CSS", "Git", "GitHub", "Figma"],
+        "RealEstateHub is an online real estate platform built using React. It allows users to browse property listings, view detailed descriptions and images, filter by location and price, and connect with real estate agents, providing a comprehensive solution for buying, selling, or renting properties.",
+        technologies: [
+          "React JS",
+          "REST APIs",
+          "axios",
+          "CSS",
+          "Git",
+          "GitHub",
+          "Node js",
+          "express js",
+          "mongoDb"
+        ],
     },
     {
       name: "Dashboard Panel",

@@ -8,10 +8,10 @@ export const skillsData = [
   "Git",
   "MaterialUI",
   "Bootstrap",
-  "Tailwind",
   "Angular",
-  "Firebase",
   "Node JS",
+  "Typescript",
+  "MongoDB"
 ];
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
@@ -19,6 +19,7 @@ export const skillsData = [
 // AVAILABLE SKILLS
 
 /* 
+
     HTML
     CSS
     JS 

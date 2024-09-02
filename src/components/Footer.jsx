@@ -16,7 +16,7 @@ function Footer() {
           window.open(FooterLink);
         }}
       >
-        rahul gandhi
+        Rahul Gandhi
       </div>
     </div>
   );
