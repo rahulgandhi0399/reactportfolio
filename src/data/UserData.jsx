@@ -1,6 +1,6 @@
 export const UserData = {
   name: "Rahul Gandhi",
-  about : "I'm a front end developer that learned everything on my own. I specialize in creating dynamic, accessible websites that work on any device. Furthermore, I regularly create creative solutions that improve user experiences. I am proficient in React.js, Redux, JavaScript, HTML5, and CSS. I guarantee efficient code management and communication thanks to my knowledge with Git version control. Likewise, I'm also skilled at developing apps using mini program studio frameworks and exceeding client expectations with my high-caliber solutions.",
+  about : "I am a backend engineer with approximately 3 years of experience, currently working at Jio. I specialize in building robust, scalable server-side applications that power seamless user experiences. My expertise includes working with Node.js, Express.js, and various databases to design and implement efficient APIs and microservices. I am proficient in optimizing backend processes for performance and security, ensuring high availability and reliability of systems. Additionally, I am skilled in version control with Git and thrive in collaborative environments where I contribute to delivering high-quality, impactful solutions.",
   resumeUrl : "https://drive.google.com/file/d/11Jg7TGbH7UiKR-UDwQyDeH7xCi3G5xb-/view?usp=sharing",
   FooterLink : "https://www.linkedin.com/in/rahul-gandhi-797b841aa",
   socialMedia: [
